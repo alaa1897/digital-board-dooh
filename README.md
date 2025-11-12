@@ -13,15 +13,6 @@ A Django-based Digital Out-of-Home (DOOH) advertising system that allows real-ti
 - Dashboards for monitoring ads, boards, and users
 - Secure login and account management
 
----
-
-## Screenshots
-
-*(Add screenshots to `docs/screenshots/` folder and update paths below)*
-
-![Admin Dashboard](docs/screenshots/admin_dashboard.png)  
-![Client Dashboard](docs/screenshots/client_dashboard.png)  
-![Ad Display](docs/screenshots/ad_display.png)  
 
 ---
 
